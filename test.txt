@@ -1,1 +1,7 @@
-This is a txt file
+This is a txt file.
+Hello How are you?
+I am fine?
+We have a MTH quiz tomorrow....
+Hello Bye Hello Bye 
+
+
